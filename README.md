@@ -4,6 +4,10 @@
 [![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)](https://learn.microsoft.com/dotnet/csharp/)  
 [![3D Game](https://img.shields.io/badge/3D%20Game-blue)]()
 
+
+[![▶ Play Zoo World](https://img.shields.io/badge/▶%20Play%20Zoo%20World-in%20WebGL-blue?style=for-the-badge)](https://alexdekarlo.github.io/Primitives-Zoo/)
+
+
 **Zoo World** is a 3D game where you can observe different animals interacting in a simple ecosystem. This project was developed to demonstrate extensible architecture.
 
 ![Game Demo](ReadMeContent/ContentGIF.gif)
